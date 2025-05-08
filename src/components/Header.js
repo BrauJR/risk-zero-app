@@ -19,7 +19,7 @@ const Header = ({ onChangeSection }) => {
           className="text-2xl font-bold cursor-pointer hover:text-indigo-300 transition-colors"
           onClick={() => handleNavigation('home')}
         >
-          CyberGuardian
+         Risk Zero
         </div>
         
         {/* Menú para desktop */}

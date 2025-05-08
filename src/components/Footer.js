@@ -90,7 +90,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="mt-8 border-t border-indigo-800 pt-8 text-center text-indigo-200 text-sm">
-          <p>© {new Date().getFullYear()} CyberGuardian. Todos los derechos reservados.</p>
+          <p>© {new Date().getFullYear()}Risk Zero. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>
