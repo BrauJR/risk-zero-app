@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="md:flex md:justify-between md:items-center">
           <div className="mb-6 md:mb-0">
-            <span className="text-xl font-bold">CyberGuardian</span>
+            <span className="text-xl font-bold">Risk Zero</span>
             <p className="mt-2 text-indigo-200">
               Tu escudo en el mundo digital.
             </p>
@@ -90,7 +90,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="mt-8 border-t border-indigo-800 pt-8 text-center text-indigo-200 text-sm">
-          <p>© {new Date().getFullYear()}Risk Zero. Todos los derechos reservados.</p>
+          <p>© {new Date().getFullYear()} Risk Zero. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>
